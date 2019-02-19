@@ -9,5 +9,9 @@ This is a repository for all my 100 days of ML code challenges. During these 100
 
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
-* [Resources - click here to see the resources I use for my Learning](Resources.md)
+* [Resources - click here to see the resources I use for my Learning](resources.md)
 
+
+Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
+
+Follow me on Medium where I post my blogs [munniomer](https://medium.com/@munniomer)
