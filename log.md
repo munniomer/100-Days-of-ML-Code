@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log [Munira Omar]
+# 100 Days Of ML Code - Log [Munira Omar]
 
 ## Contents
 
