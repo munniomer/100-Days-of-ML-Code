@@ -4,7 +4,7 @@
 
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
-* [Resources - click here to see the resources I use for my Learning](Resources.md)
+* [Resources - click here to see the resources I use for my Learning](resources.md)
 
 ### Day 1: February 19, 2019
 
