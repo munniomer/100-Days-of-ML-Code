@@ -8,10 +8,16 @@
 
 ### Day 1: February 19, 2019
 
-**Today's Progress**: Started to learn about Linear Algrebra which is crucial for understanding the theory behind Machine Learning and Deep Learning.
+**Today's Progress**: Started to learn about Linear Algebra which is crucial for understanding the theory behind Machine Learning and Deep Learning.
 
 **Thoughts**: I did not know much about Linear ALgebra but today am happy that I mastered of its concepts that are used in Machine Learning Such as Matrices and Vectors.
 
+### Day 2: February 20, 2019
+
+**Today's Progress**: Continued learning Linear Algebra and watched Vectors and spaces vedios on Khan Academy.
+
+
+**Thoughts**: Practiced the quizes on Vectors and Spaces.
 
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
