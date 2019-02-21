@@ -14,10 +14,17 @@
 
 ### Day 2: February 20, 2019
 
-**Today's Progress**: Continued learning Linear Algebra and watched Vectors and spaces vedios on Khan Academy.
+**Today's Progress**: Continued learning Linear Algebra and watched Vectors and spaces videos on Khan Academy.
 
 
 **Thoughts**: Practiced the quizes on Vectors and Spaces.
+
+### Day 3: February 21, 2019
+
+**Today's Progress**: Continued learning Linear Algebra and watched some of Matrix transformations videos on Khan Academy.
+
+
+**Thoughts**: Learned about Functions and linear transformations.
 
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
