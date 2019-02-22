@@ -26,6 +26,13 @@
 
 **Thoughts**: Learned about Functions and linear transformations.
 
+### Day 4: February 22, 2019
+
+**Today's Progress**: Continued learning Linear Algebra and watched Linear transformation examples videos on Khan Academy.
+
+
+**Thoughts**: Learned about Linear transformation.
+
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
 Follow me on Medium where I post my blogs [munniomer](https://medium.com/@munniomer)
