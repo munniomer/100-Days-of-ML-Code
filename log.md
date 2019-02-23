@@ -12,26 +12,34 @@
 
 **Thoughts**: I did not know much about Linear ALgebra but today am happy that I mastered of its concepts that are used in Machine Learning Such as Matrices and Vectors.
 
+
 ### Day 2: February 20, 2019
 
 **Today's Progress**: Continued learning Linear Algebra and watched Vectors and spaces videos on Khan Academy.
 
-
 **Thoughts**: Practiced the quizes on Vectors and Spaces.
+
 
 ### Day 3: February 21, 2019
 
 **Today's Progress**: Continued learning Linear Algebra and watched some of Matrix transformations videos on Khan Academy.
 
-
 **Thoughts**: Learned about Functions and linear transformations.
+
 
 ### Day 4: February 22, 2019
 
 **Today's Progress**: Continued learning Linear Algebra and watched Linear transformation examples videos on Khan Academy.
 
-
 **Thoughts**: Learned about Linear transformation.
+
+
+### Day 5: February 23, 2019
+
+**Today's Progress**: Continued learning Linear Algebra and watched Transformations and matrix multiplication videos on Khan Academy.
+
+**Thoughts**: Learned about Matrix Product.
+
 
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
