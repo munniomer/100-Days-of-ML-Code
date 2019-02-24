@@ -41,6 +41,13 @@
 **Thoughts**: Learned about Matrix Product.
 
 
+### Day 6: February 24, 2019
+
+**Today's Progress**: Continued learning Linear Algebra and watched Inverse functions and transformations videos on Khan Academy.
+
+**Thoughts**: Learned about Inverse functions
+
+
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
 Follow me on Medium where I post my blogs [munniomer](https://medium.com/@munniomer)
