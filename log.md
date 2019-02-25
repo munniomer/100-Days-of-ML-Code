@@ -47,6 +47,12 @@
 
 **Thoughts**: Learned about Inverse functions
 
+### Day 7: February 25, 2019
+
+**Today's Progress**: Continued learning Linear Algebra and watched Finding inverses and determinants videos on Khan Academy.
+
+**Thoughts**: Learned how to Find inverses and determinants
+
 
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
