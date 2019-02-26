@@ -54,6 +54,13 @@
 **Thoughts**: Learned how to Find inverses and determinants
 
 
+### Day 8: February 26, 2019
+
+**Today's Progress**: Continued learning Linear Algebra and watched More determinant depth videos on Khan Academy.
+
+**Thoughts**: Learned more about determinants.
+
+
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
 Follow me on Medium where I post my blogs [munniomer](https://medium.com/@munniomer)
