@@ -60,6 +60,11 @@
 
 **Thoughts**: Learned more about determinants.
 
+### Day 9: February 27, 2019
+
+**Today's Progress**: Continued learning Linear Algebra and watched some videos of Transpose of a matrix on Khan Academy.
+
+**Thoughts**: Learned Transpose of a matrix.
 
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
