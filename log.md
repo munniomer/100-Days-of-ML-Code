@@ -66,6 +66,13 @@
 
 **Thoughts**: Learned Transpose of a matrix.
 
+### Day 10: February 28, 2019
+
+**Today's Progress**: Continued learning Linear Algebra and finished Matrix transformation unit vedios on Khan Academy.
+
+**Thoughts**: Learned Transpose of a matrix.
+
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
 Follow me on Medium where I post my blogs [munniomer](https://medium.com/@munniomer)
+
