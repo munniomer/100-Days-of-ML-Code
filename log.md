@@ -79,6 +79,12 @@
 
 **Thoughts**: Learned Orthogonal complements.
 
+### Day 12: March 2, 2019
+
+**Today's Progress**: Continued learning Linear Algebra and finished videos of Orthogonal complements on Khan Academy.
+
+**Thoughts**: Learned Orthogonal complements.
+
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
 Follow me on Medium where I post my blogs [munniomer](https://medium.com/@munniomer)
