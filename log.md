@@ -85,6 +85,12 @@
 
 **Thoughts**: Learned Orthogonal complements.
 
+### Day 13: March 3, 2019
+
+**Today's Progress**: Continued learning Linear Algebra and watched some videos of Orthogonal projections on Khan Academy.
+
+**Thoughts**: Learned Orthogonal projections.
+
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
 Follow me on Medium where I post my blogs [munniomer](https://medium.com/@munniomer)
