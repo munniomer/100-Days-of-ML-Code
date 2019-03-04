@@ -91,6 +91,13 @@
 
 **Thoughts**: Learned Orthogonal projections.
 
+
+### Day 14: March 4, 2019
+
+**Today's Progress**: Continued learning Linear Algebra and finished the Orthogonal projections vedios on Khan Academy.
+
+**Thoughts**: Learned Orthogonal projections.
+
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
 Follow me on Medium where I post my blogs [munniomer](https://medium.com/@munniomer)
